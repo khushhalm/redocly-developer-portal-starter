@@ -3,6 +3,8 @@ training:
   - group: Training exercises
     expanded: true
     pages:
+      - label: Sample Page from an API
+        page: developer-portal/awesome/OpenAPI Definition Starter Sample.md
       - label: Markdown
         page: developer-portal/markdown.md
       - label: Folder structure
