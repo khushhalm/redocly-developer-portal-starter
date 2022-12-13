@@ -3,8 +3,6 @@ training:
   - group: Training exercises
     expanded: true
     pages:
-      - label: Sample Page
-        page: developer-portal/awesome/OpenAPI Definition Starter.md
       - label: Setup
         page: developer-portal/setup.md
       - label: Markdown
