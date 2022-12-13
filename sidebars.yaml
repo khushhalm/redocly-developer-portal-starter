@@ -5,6 +5,8 @@ training:
     pages:
       - label: Sample Page from an API
         page: developer-portal/awesome/OpenAPI Definition Starter Sample.md
+      - label: Setup
+        page: developer-portal/setup.md
       - label: Markdown
         page: developer-portal/markdown.md
       - label: Folder structure
@@ -65,9 +67,7 @@ training:
                             expanded: true
                             pages:
                               - label: Upgrading
-                                 page: developer-portal/upgrade.md
-                              - label: Setup
-                                 page: developer-portal/setup.md
+                                 # page: developer-portal/upgrade.md
 
 alternative:
   - page: developer-portal/sidebar-alternative.md
