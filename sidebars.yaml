@@ -3,8 +3,6 @@ training:
   - group: Training exercises
     expanded: true
     pages:
-      - label: Setup
-        page: developer-portal/setup.md
       - label: Markdown
         page: developer-portal/markdown.md
       - label: Folder structure
@@ -65,7 +63,10 @@ training:
                             expanded: true
                             pages:
                               - label: Upgrading
-                                # page: developer-portal/upgrade.md
+                                 page: developer-portal/upgrade.md
+                              - label: Setup
+                                 page: developer-portal/setup.md
+
 alternative:
   - page: developer-portal/sidebar-alternative.md
     label: Alternative sidebar example
